@@ -1,6 +1,6 @@
 # 🧮 Fun Calculator - A Playful Python Math Tool
 
-![Calculator Illustration](https://img.icons8.com/color/96/000000/calculator.png) *(Note: Add actual image reference in your project)*
+![Calculator Illustration](https://img.icons8.com/color/96/000000/calculator.png) 
 
 ## 🌟 Overview
 The **Fun Calculator** is a delightful Python program that performs basic arithmetic operations with personality! It's designed to make simple math operations more engaging with colorful output and friendly messaging.
