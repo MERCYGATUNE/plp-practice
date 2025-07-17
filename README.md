@@ -63,9 +63,9 @@ We welcome contributions! Please fork the repository and create a pull request w
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-For questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com)
+For questions or suggestions, please contact.
 
 ---
 
-*Created with ❤️ by [Your Name]*  
+*Created with ❤️ by *MERCY*  
 *"Making math fun since 2023!"* 🎉
