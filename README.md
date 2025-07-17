@@ -25,11 +25,11 @@ The **Fun Calculator** is a delightful Python program that performs basic arithm
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fun-calculator.git
+   git clone https://github.com/MERCYGATUNE/plp-practice.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fun-calculator
+   cd plp-practice
    ```
 
 ### Usage
@@ -49,18 +49,12 @@ Product: 45.0
 Quotient: 5.0
 ```
 
-## 🛠️ Future Enhancements
-- [ ] Add division by zero protection
-- [ ] Include exponentiation operation
-- [ ] Implement a history feature
-- [ ] Add unit tests
-- [ ] Create GUI version
 
 ## 🤝 Contributing
 We welcome contributions! Please fork the repository and create a pull request with your improvements.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the(LICENSE) file for details.
 
 ## 📧 Contact
 For questions or suggestions, please contact.
